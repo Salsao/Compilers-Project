@@ -1,0 +1,29 @@
+algoritmo declaracao_de_variavel_e_atribuicao;
+
+variaveis
+	k, l : inteiro;
+	x : literal;
+fim-variaveis
+
+inicio
+	x = "teste";
+	k = 1;
+	l = 2;
+	// k = k+2*l;
+	se l < k entao
+		k = 2;
+
+	fim-entao
+	senao
+		l = 3;
+	fim-senao
+fim
+
+/*
+		se l < k entao
+			k = 3;
+		fim-entao
+		senao
+			l = 4;
+		fim-senao
+		*/
