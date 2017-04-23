@@ -1,5 +1,5 @@
-# Compilers HomeWork
-This work is for Compiler discipline for Federal University of Espírito Santo in 2015/2.
+# Compilers Project
+This project is for Compiler discipline for Federal University of Espírito Santo in 2015/2.
 
 ##Compiler
 
